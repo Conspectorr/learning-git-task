@@ -10,3 +10,4 @@ ilość=0
 for produkty in sklepy.values():
     ilość=ilość+len(produkty)
 print(f"W sumie kupuję {ilość} produktów.")
+print("To już wszystkie profukty, jakie kupiłem.")
